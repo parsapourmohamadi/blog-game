@@ -1,0 +1,1 @@
+const userType = 'Male'
